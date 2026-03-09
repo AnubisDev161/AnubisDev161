@@ -1,5 +1,5 @@
 ## About me
-I am Stanislaw, Game Engineering student at [School for Games](https://www.school4games.net) in Berlin, Germany.
+HI, I am Stanislaw, Game Engineering student at [School for Games](https://www.school4games.net) in Berlin, Germany.
 
 
 ## Project Overview
