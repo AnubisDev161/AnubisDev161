@@ -1,6 +1,6 @@
 ## About me
 Hi, I am Stanislaw, Game Engineering student at the [School for Games](https://www.school4games.net) in Berlin, Germany.      
-I love bringing worlds to life, especially when it comes to enemy AI and Gameplay Programming.
+I love bringing worlds to life, especially when it comes to Game AI and Gameplay Programming.
 
 
 
